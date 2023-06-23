@@ -1,4 +1,6 @@
-{
+{"feedback": {
+        "old_key": "old_value"
+    },
   "admobs": {
     "BannerUID": "ca-app-pub-8090736550040241/3547472895",
     "Enable": "true",
