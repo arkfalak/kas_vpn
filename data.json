@@ -11,13 +11,16 @@
   },
   "ssservers": [
     {
-      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDIxMi4xOTIuOS4yMjA6OTk4#auto%20connect"
+      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDIxMi4xOTIuOS4yMjA6OTk4#Auto%20connect"
     },
     {
-      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDE3Ni4xMDUuMjUyLjE3ODo5OTg#italy"
+      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDE3Ni4xMDUuMjUyLjE3ODo5OTg#Italy"
     },
     {
-      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDIxNy4xMy4xMDkuNzU6OTk4#canada"
+      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDIxNy4xMy4xMDkuNzU6OTk4#Canada"
+    },
+    {
+      "profile": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVoQDIxMi4xOTIuOS4yMjA6OTk4#Netherlands"
     }
   ],
   "testing": {
